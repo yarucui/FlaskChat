@@ -37,12 +37,6 @@ If `requirements.txt` is available, install dependencies using pip:
 pip install -r requirements.txt
 ```
 
-#### Method 3: Using the Automation Script
-Run the `setup_environment.py` script to automate the setup:
-```bash
-python setup_environment.py
-```
-
 ### Step 3: Train the Model
 
 Run the `train.py` script to train the chatbot model. This will generate the following files:
